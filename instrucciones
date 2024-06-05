@@ -1,0 +1,4 @@
+Configurar el pom, con el plugin para la generacion de las clases del archivo wsdl
+ejecutar este comando para generar las clases
+mvn jaxb2:generate
+
